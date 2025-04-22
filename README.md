@@ -6,7 +6,6 @@
 ---
 
 ### 🚀 About Me
-- System Engineer at **Infosys** (2025)
 - Passionate about building real-world mobile apps using **Flutter**, **Firebase**, and **clean architecture**
 - Learning, growing, and contributing to open-source whenever I can
 - Focused on developing apps that improve **productivity**, **wellness**, and **user experience**
@@ -20,23 +19,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📱 Highlight Projects
-> (These are placeholder links — we’ll replace them once you confirm the actual projects to feature.)
-
-- **Hunter Rank Tracker App**  
-  Flutter-based screen time tracker with app usage analytics and charts.  
-  [View Repository](https://github.com/sood-aayush/hunter_rank_tracker)
-
-- **Music Streaming App**  
-  Firebase-authenticated app for uploading, streaming, and favoriting songs.  
-  [View Repository](#)
-
-- **Tourism App for Himachal**  
-  Travel app showcasing destinations and homestay packages using animated Flutter UI.  
-  [View Repository](#)
 
 ---
 
