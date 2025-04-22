@@ -22,6 +22,15 @@
 
 ---
 
+### 📱 Highlight Projects
+
+
+- **Tours and Travels App**  
+  Flutter-based application for booking trips.  
+  [View Repository](https://github.com/sood-aayush/travel_app)
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sood-aayush&show_icons=true&theme=radical" alt="GitHub Stats" />
