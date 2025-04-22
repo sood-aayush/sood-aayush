@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aayush Sood</h1>
 <p align="center">
-  <b>Flutter & Java Developer | System Engineer at Infosys | Tech Explorer</b>
+  <b>Flutter & Java Developer | Tech Explorer</b>
 </p>
 
 ---
